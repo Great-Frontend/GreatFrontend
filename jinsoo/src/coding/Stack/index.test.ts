@@ -1,4 +1,4 @@
-import Stack from '../coding/Stack';
+import Stack from '.';
 
 describe('Stack Test', () => {
   test('isEmpty', () => {
